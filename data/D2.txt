@@ -1,0 +1,1 @@
+A Pangrams can be define as a sentences using every letter of the alphabet at least once for any language.
